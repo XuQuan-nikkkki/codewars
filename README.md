@@ -28,8 +28,15 @@
     	<a href="https://github.com/XuQuan-nikkkki/codewars/blob/master/Format%20a%20string%20of%20names%20like%20Bart%2C%20Lisa%20%26%20Maggie.md">Answer</a>
     </td>
   </tr>
-</table>
-
-
-
+  <tr>
+  	<td>4</td>
+    <td><b>First Non-repeating Character.</b></td>
+    <td>
+    	<a href="https://www.codewars.com/kata/52bc74d4ac05d0945d00054e/train/javascript" target='_blank'>Question</a>
+    </td>
+    <td>
+    	<a href="https://github.com/XuQuan-nikkkki/codewars/blob/master/First%20Non-repeating%20character.md">Answer</a>
+    </td>
+  </tr>
+<</table>
 
